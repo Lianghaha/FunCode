@@ -2,7 +2,7 @@
     "configurations": [
     {
         "name": "Launch Program",
-        "program": "${workspaceFolder}/leetcode.js",
+        "program": "${workspaceFolder}/FunCode.js",
         "request": "launch",
         "skipFiles": [
             "<node_internals>/**"
